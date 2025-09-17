@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resep Masakan Mudah - Blog Kuliner Sederhana</title>
+    <link rel="stylesheet" href="css/style.css">
+    <meta name="description" content="Blog resep masakan mudah, murah, dan enak untuk sehari-hari. Temukan inspirasi kuliner Indonesia!">
+</head>
+<body>
+    <header>
+        <nav>
+            <h1>Resep Mudah</h1>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <main>
+        <section class="hero">
+            <h2>Selamat Datang di Blog Resep Masakan Mudah!</h2>
+            <p>Temukan resep sederhana yang pasti dicari semua orang. Mulai dari ayam goreng hingga nasi goreng spesial.</p>
+        </section>
+        
+        <section class="posts">
+            <article>
+                <img src="images/ayam-goreng.jpg" alt="Ayam Goreng">
+                <h3>Resep Ayam Goreng Krispi</h3>
+                <p>Resep mudah dengan bahan murah. Waktu: 30 menit.</p>
+                <a href="single-post.html">Baca Selengkapnya</a>
+            </article>
+            <article>
+                <img src="images/nasi-goreng.jpg" alt="Nasi Goreng">
+                <h3>Resep Nasi Goreng Kampung</h3>
+                <p>Enak dan cepat, cocok untuk sarapan.</p>
+                <a href="single-post.html">Baca Selengkapnya</a>
+            </article>
+            <!-- Tambah artikel lain di sini untuk lebih banyak resep -->
+        </section>
+        
+        <!-- Placeholder untuk AdSense atau Affiliate -->
+        <aside class="ads">
+            <p>Iklan: Beli bahan masak di Shopee! <a href="https://shopee.co.id/affiliate-link">Link Affiliate</a></p>
+            <!-- Paste kode AdSense di sini -->
+        </aside>
+    </main>
+    
+    <footer>
+        <p>&copy; 2025 Resep Mudah. All rights reserved.</p>
+    </footer>
+    
+    <script src="js/script.js"></script>
+</body>
+</html>
